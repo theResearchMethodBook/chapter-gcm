@@ -1,5 +1,4 @@
-# chapter-template
-Template for Chapter Authors
+# Chapter on Group Concept Mapping
 
 [![CC NA SA 4.0 Logo](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

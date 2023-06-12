@@ -1,20 +1,88 @@
 ---
 bibliography: references.bib
 
-title: Your chapter title
+title: Group Concept Mapping
 
 author: # one line per author
-- Your Name goes here
+- Christian Glahn
 
 abstract: |
-    Your abstract goes here.
+    Group Concept Mapping is an empirical approach to understand the conceptual structure of stakeholder groups. It is a mixed method approach that combines qualitative and quantitative methods. The qualitative part is used to generate statements that are then rated by the stakeholders. The ratings are used to create a concept map that shows the conceptual structure of the group. The concept map can be used to identify clusters of concepts and to identify the most important concepts.
 
 keywords: # one keyword per line
-- info
-- methods
+- GCM
+- mixed method
+- stakeholder research
+- concept extraction
+- cluster analysis
 ---
 
 ## Introduction
+
+Group Concept Mapping (GCM) is a tool for extracting shared concepts within a stakeholder group. It provides insights into the conceptual structures of a group in relation to an overarching topic. The method falls into the category of mixed methods as it combines different approaches to generate and analyze data. The method was introduced by @trochim_introduction_1989 as an evidence based tool for understanding and mediating between stakeholders. 
+
+The method is based on the assumption that a group of stakeholders has a shared conceptual understanding of a topic. The method is used to extract this conceptual understanding and to visualize it in a concept map. The concept map can be used to identify clusters of concepts and to identify the most important concepts. The method is used in a variety of fields, including health care, education, and social sciences.
+ 
+It can be used to answer three general types of research questions: 
+
+- What ideas and/or requirements does a single group express in relation to a task, topic, or challenge?
+- How do different stakeholder groups differ in their recognition and priorisation regarding a ?
+
+## Background
+
+@trochim_introduction_1989 introduced a mixed method approach to understand the conceptual understanding of stakeholder groups on a specific topic. The approach is called Group Concept Mapping (GCM) and combines qualitative and quantitative methods. The qualitative part is used to generate statements that are then rated by the stakeholders. The ratings are used to create a concept map that shows the conceptual structure of the group. The concept map can be used to identify clusters of concepts and to identify the most important concepts.
+
+## Research questions to answer using GCM
+
+- Understanding a signle group
+- compare multiple groups 
+- stakeholder perspectives on pre existing topics or strategies (e.g., refine a literature review)
+
+## Procedure
+
+### Statement generation
+
+### Concept mapping
+
+### Rating
+
+### Concept extraction
+
+### Samplesize
+
+## Outcomes
+
+### Data
+
+### Cluster maps 
+
+### Rating plots
+
+## Interpretation
+
+## Tools
+
+### Statement generation and concept mapping
+
+**Miro**
+
+**Padlet**
+
+### Rating
+
+**Survey tools**
+
+**Online Forms** 
+
+- MS Forms
+- Google forms 
+
+## Pitfalls
+
+- too early anonymization
+- statement segration
+- missing stakeholder segregation
+
 
 
 ## References {-}
