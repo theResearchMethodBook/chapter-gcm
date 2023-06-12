@@ -1,0 +1,20 @@
+---
+bibliography: references.bib
+
+title: Your chapter title
+
+author: # one line per author
+- Your Name goes here
+
+abstract: |
+    Your abstract goes here.
+
+keywords: # one keyword per line
+- info
+- methods
+---
+
+## Introduction
+
+
+## References {-}

@@ -1,0 +1,3 @@
+## The Front Page
+
+This page holds no content, but is required for quarto to run.
